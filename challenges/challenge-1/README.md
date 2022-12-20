@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img width=60% src=../../images/challenge-1.png/>
+  <img width=40% src=../../images/challenge-1.png/>
 </p>
 
 <h1 align="center">🎁 Reto #1: <em>¡Automatizando envolver regalos de navidad!</em> 🎅🏻</h1>

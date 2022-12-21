@@ -1,12 +1,11 @@
+</br>
 <p align="center"> 
   <img width=40% src=../../images/challenge-1.png/>
 </p>
 
 <h1 align="center">🎁 Reto #1: <em>¡Automatizando envolver regalos de navidad!</em> 🎅🏻</h1>
 
-<p style="background:LimeGreen; border-radius:20px; width:60px; text-align:center; font-weight:600; margin: 0 auto; padding:0 5px; font-size:14px">Fácil</p>
-
-## Instrucciones
+## Instrucciones - [![](https://img.shields.io/badge/-Fácil-brightgreen?style=plastic)]()
 
 Este año los elfos han comprado una máquina que envuelve regalos. Pero... ¡no viene programada! Necesitamos crear un algoritmo que le ayude en la tarea.
 

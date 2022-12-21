@@ -1,10 +1,11 @@
+</br>
 <p align="center"> 
   <img width=40% src=../../images/challenge-2.png/>
 </p>
 
 <h1 align="center">📆 Reto #2: <em>Nadie quiere hacer horas extra</em> ⏱</h1>
 
-## Instrucciones - [![](https://img.shields.io/badge/-Fácil-brightgreen?style=plastic)](https://twitter.com/midudev)
+## Instrucciones - [![](https://img.shields.io/badge/-Fácil-brightgreen?style=plastic)]()
 
 Un millonario ha comprado una red social y no trae buenas noticias. Ha anunciado que **cada vez que una jornada de trabajo se pierde por un día festivo**, habrá que compensarlo con **dos horas extra otro día de ese mismo año**.
 

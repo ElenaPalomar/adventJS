@@ -3,7 +3,7 @@
   <img width=40% src=../../images/challenge-5.png/>
 </p>
 
-<h1 align="center">🎁 Reto #4: <em>Optimizando viajes de Santa</em> 📦</h1>
+<h1 align="center">🎁 Reto #5: <em>Optimizando viajes de Santa</em> 🌆</h1>
 
 ## Instrucciones - [![](https://img.shields.io/badge/-Difícil-C0392B?style=plastic)]()
 

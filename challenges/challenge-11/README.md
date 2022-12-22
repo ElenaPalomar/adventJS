@@ -3,7 +3,7 @@
   <img width=40% src=../../images/challenge-11.png/>
 </p>
 
-<h1 align="center">🛷 Reto #11: <em>Papá Noel es Scrum Master</em> 🎅🏻</h1>
+<h1 align="center">🎅🏻 Reto #11: <em>Papá Noel es Scrum Master</em> ⌚</h1>
 
 ## Instrucciones - [![](https://img.shields.io/badge/-Difícil-C0392B?style=plastic)]()
 

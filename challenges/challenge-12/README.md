@@ -3,7 +3,7 @@
   <img width=40% src=../../images/challenge-12.png/>
 </p>
 
-<h1 align="center">🛷 Reto #12: <em>Trineos eléctricos, ¡guau!</em> 🎅🏻</h1>
+<h1 align="center">🛷 Reto #12: <em>Trineos eléctricos, ¡guau!</em> 🔌</h1>
 
 ## Instrucciones - [![](https://img.shields.io/badge/-Medio-F39C12?style=plastic)]()
 

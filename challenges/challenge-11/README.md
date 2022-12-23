@@ -1,6 +1,6 @@
 </br>
 <p align="center"> 
-  <img width=40% src=../../images/challenge-11.png/>
+  <img width=40% src=../../images/challenge-11.svg/>
 </p>
 
 <h1 align="center">🎅🏻 Reto #11: <em>Papá Noel es Scrum Master</em> ⌚</h1>

@@ -1,6 +1,6 @@
 </br>
 <p align="center"> 
-  <img width=40% src=../../images/challenge-6.png/>
+  <img width=40% src=../../images/challenge-6.svg/>
 </p>
 
 <h1 align="center">🎀 Reto #6: <em>Creando adornos navideños</em> 🧊</h1>

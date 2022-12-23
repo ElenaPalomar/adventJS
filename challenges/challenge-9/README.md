@@ -1,6 +1,6 @@
 </br>
 <p align="center"> 
-  <img width=40% src=../../images/challenge-9.png/>
+  <img width=40% src=../../images/challenge-9.svg/>
 </p>
 
 <h1 align="center">💡 Reto #9: <em>Las locas luces de Navidad</em> 🎄</h1>

@@ -1,6 +1,6 @@
 </br>
 <p align="center"> 
-  <img width=40% src=../../images/challenge-5.png/>
+  <img width=40% src=../../images/challenge-5.svg/>
 </p>
 
 <h1 align="center">🎁 Reto #5: <em>Optimizando viajes de Santa</em> 🌆</h1>

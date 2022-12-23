@@ -1,6 +1,6 @@
 </br>
 <p align="center"> 
-  <img width=40% src=../../images/challenge-3.png/>
+  <img width=40% src=../../images/challenge-3.svg/>
 </p>
 
 <h1 align="center">🎁 Reto #3: <em>¿Cuántas cajas de regalos puede llevar Papá Noel?</em> 🎅🏻</h1>

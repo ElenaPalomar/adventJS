@@ -1,6 +1,6 @@
 </br>
 <p align="center"> 
-  <img width=40% src=../../images/challenge-13.png/>
+  <img width=40% src=../../images/challenge-13.svg/>
 </p>
 
 <h1 align="center">👩🏻‍💻 Reto #13: <em>Backup de los archivos de Papá Noel</em> 💻</h1>

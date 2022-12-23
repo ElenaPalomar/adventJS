@@ -1,6 +1,6 @@
 </br>
 <p align="center"> 
-  <img width=40% src=../../images/challenge-4.png/>
+  <img width=40% src=../../images/challenge-4.svg/>
 </p>
 
 <h1 align="center">🎁 Reto #4: <em>Una caja dentro de otra caja y otra...</em> 📦</h1>

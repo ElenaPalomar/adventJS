@@ -33,7 +33,7 @@
 
 <h3>Agradecimientos</h3>
 
-[adventJS](https://midu.dev/) es una iniciativa de [@midudev](https://midu.dev/) en la que cada día de diciembre nos propone un nuevo reto desde el 1 de diciembre hasta el día 24.
+[adventJS](https://adventjs.dev/es) es una iniciativa de [@midudev](https://midu.dev/) en la que cada día de diciembre nos propone un nuevo reto desde el 1 de diciembre hasta el día 24.
 
 [![](https://img.shields.io/badge/-midudev-9146FF?style=flat-square&logo=twitch&logoColor=white&style=plastic)](https://www.twitch.tv/midudev)
 [![](https://img.shields.io/badge/-%40midudev-ff0000?style=flat-square&logo=youtube&logoColor=white&style=plastic)](https://www.youtube.com/midudev)

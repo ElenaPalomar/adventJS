@@ -1,6 +1,6 @@
 </br>
 <p align="center"> 
-  <img width=40% src=../../images/challenge-12.png/>
+  <img width=40% src=../../images/challenge-12.svg/>
 </p>
 
 <h1 align="center">🛷 Reto #12: <em>Trineos eléctricos, ¡guau!</em> 🔌</h1>

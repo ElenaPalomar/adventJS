@@ -1,6 +1,6 @@
 </br>
 <p align="center"> 
-  <img width=40% src=../../images/challenge-2.png/>
+  <img width=40% src=../../images/challenge-2.svg/>
 </p>
 
 <h1 align="center">📆 Reto #2: <em>Nadie quiere hacer horas extra</em> ⏱</h1>

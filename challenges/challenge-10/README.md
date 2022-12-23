@@ -1,6 +1,6 @@
 </br>
 <p align="center"> 
-  <img width=40% src=../../images/challenge-10.png/>
+  <img width=40% src=../../images/challenge-10.svg/>
 </p>
 
 <h1 align="center">🛷 Reto #10: <em>El salto del trineo de Papá Noel</em> 🎅🏻</h1>

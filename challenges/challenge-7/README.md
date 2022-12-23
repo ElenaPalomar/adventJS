@@ -1,6 +1,6 @@
 </br>
 <p align="center"> 
-  <img width=40% src=../../images/challenge-7.png/>
+  <img width=40% src=../../images/challenge-7.svg/>
 </p>
 
 <h1 align="center">🎁 Reto #7: <em>Haciendo inventario de regalos</em> 🏭</h1>

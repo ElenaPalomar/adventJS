@@ -1,6 +1,8 @@
-<h1 align="center">Reto #1: <em></h1>
+<h1 align="center">Reto #1: 🎁 <em>¡Primer regalo repetido!</em></h1>
 
-Santa Claus 🎅 ha recibido una lista de números mágicos que representan regalos 🎁, pero algunos de ellos están duplicados y deben ser eliminados para evitar confusiones. Además, los regalos deben ser ordenados en orden ascendente antes de entregárselos a los elfos.
+## Instrucciones - [![](https://img.shields.io/badge/-Fácil-brightgreen?style=plastic)]()
+
+Santa Claus 🎅 ha recibido una lista de números mágicos que representan regalos 🎁, pero algunos de ellos están duplicados y deben ser eliminados para evitar confusiones. Además, **los regalos deben ser ordenados en orden ascendente antes de entregárselos a los elfos**.
 
 Tu tarea es escribir una función que reciba una lista de números enteros (que pueden incluir duplicados) y devuelva una nueva lista sin duplicados, ordenada en orden ascendente.
 

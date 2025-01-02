@@ -10,10 +10,10 @@
 
 En este repositorio podréis encontrar mis soluciones a los distintos retos.
 
-<h2 style="color: #00000099;"> [2021] </h2>
+<h2 style="color: #0000004D;"> 2021 </h2>
 
-<h2><a href="https://github.com/ElenaPalomar/adventjs-2022" style="text-decoration:underline">2022</a></h2>
+<h2><a href="https://github.com/ElenaPalomar/adventJS/tree/main/adventjs-2022" style="text-decoration:underline">2022</a></h2>
 
-<h2 style="color: #00000099;"> [2023] </h2>
+<h2 style="color: #0000004D;"> 2023 </h2>
 
-<h2><a href="https://github.com/ElenaPalomar/adventjs-2024" style="text-decoration:underline">2024</a></h2>
+<h2><a href="https://github.com/ElenaPalomar/adventJS/tree/main/adventjs-2024" style="text-decoration:underline">2024</a></h2>
